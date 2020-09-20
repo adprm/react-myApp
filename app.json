@@ -24,7 +24,7 @@
       "package": "com.liteteknoid.myApp"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/logo.png"
     }
   }
 }
